@@ -1,0 +1,25 @@
+/* EXTERNAL CSS */
+body{
+    background-color:#673AB7 ;
+}
+h1{
+    font: 40px;
+    color: #FFEB3B;
+    text-align: center;
+}
+h2{
+    font: 25px;
+    color: #FFC107 ;
+    text-align: center;
+    
+}
+p{
+    font: 18px;
+    color: #CDDC39;
+    text-align: center;
+
+}
+em{
+    color:#FF5722 ;
+    text-align: center;
+}
